@@ -1,0 +1,1 @@
+You can easily modify these two scripts to suit your own needs.This just provides a basic framework for you.

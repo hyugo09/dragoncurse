@@ -1,0 +1,4 @@
+repository "dragoncurse@Bamers@cloud"
+  path "/"
+    br "/main"
+    co "/main"

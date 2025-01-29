@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bounceable
+  - collectible
+  - ennemy
+  - vert
+  - mauve
+  - destructible
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - player
+  - Water
+  - UI
+  - ground
+  - wall
+  - ennemy
+  - projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3607879265
+    locked: 0
+  - name: Background 001
+    uniqueID: 1317308257
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 3710374795
+    locked: 0
+  - name: Items
+    uniqueID: 114338787
+    locked: 0
+  - name: Traps
+    uniqueID: 3323217981
+    locked: 0
+  - name: Player
+    uniqueID: 3043673563
+    locked: 0
